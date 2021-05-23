@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @MyCodingPlace
+## 👋 Hi, Welcome to HejCode
 ### Thanks for visiting! 😄
 
 <!-- - 👀 I’m interested in ...
